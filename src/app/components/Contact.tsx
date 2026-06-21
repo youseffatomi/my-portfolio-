@@ -41,7 +41,7 @@ export function Contact() {
           >
             {[
               { icon: Mail, label: "Email", value: "joseph00631@gmail.com" },
-              { icon: Phone, label: "Phone", value: "+98 916 020 631" },
+              { icon: Phone, label: "Phone", value: "+98 916 020 0631" },
               { icon: MapPin, label: "Location", value: "Abadan, Iran" },
             ].map(({ icon: Icon, label, value }) => (
               <div
